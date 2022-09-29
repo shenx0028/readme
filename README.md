@@ -149,7 +149,7 @@ df %>%
   theme_bw()
 ```
 
-<img src="Xk_files/figure-gfm/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
+<img src="unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
 
 It can be seen that there is a clear cycle and regularity, for example,
 in the rainy season of July-August, the number of flight cancellations
@@ -177,7 +177,7 @@ df %>%
   theme_bw()
 ```
 
-<img src="Xk_files/figure-gfm/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+<img src="unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
 
 You can see that there is a strong linear relationship between the two.
 In fact it is very easy to understand that if the flight delays are very
